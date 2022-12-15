@@ -1,0 +1,1 @@
+1) Same Functionality can be added in a custom hook , which can be called multiple times.

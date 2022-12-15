@@ -1,0 +1,2 @@
+1) It receives a componnent as an argument, apply some logic to it and return modified componnent
+2) it is used when we have to apply same logic to multiple compnents.

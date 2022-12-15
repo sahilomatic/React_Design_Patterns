@@ -1,0 +1,2 @@
+1) wehen we need to pass value as argument
+2) suppose there is component whose output changes based on arguments it received
